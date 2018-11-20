@@ -123,6 +123,11 @@ function is_odd(a) {
 function river_next(river) {
 	var sequence = '';
 	// Ne rien modifier au dessus de ce commentaire
+			sequence = river;
+	var chaine = river.toString();
+	for ( var item of chaine ){
+		sequence += parseInt(item);
+	}
 
 	// Ne rien modifier au dessous de ce commentaire
 	return sequence;
@@ -132,6 +137,10 @@ function river_next(river) {
 function river_previous(river, next) {
 	var sequence = '';
 	// Ne rien modifier au dessus de ce commentaire
+	while (river < 93);
+	{
+		return river_next();
+	}
 
 	// Ne rien modifier au dessous de ce commentaire
 	return sequence;
