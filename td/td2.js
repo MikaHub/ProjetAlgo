@@ -49,7 +49,9 @@ function alphabet_AZ() {
 function alphabet_aZ() {
 	var sequence = '';
 	// Ne rien modifier au dessus de ce commentaire
-
+	for(a=97; a < 123; a++){
+	 	sequence +=String.fromCharCode(a);
+	 }
 	// Ne rien modifier au dessous de ce commentaire
 	return sequence;
 }
