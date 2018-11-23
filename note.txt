@@ -1,0 +1,47 @@
+1 note pour chaque étudiant du groupe dont vous même
+1 note global pour le groupe
+
+Travail d'équipe (0; 0,5; 1; 1,5; 2) : 1.5
+Communication, cohésion et partage
+
+Bienveillant (0; 0,5; 1; 1,5; 2) : 2
+Aimable, sociable, indulgente
+
+Motivation (0; 0,5; 1; 1,5; 2) : 1.5
+Motiver, persévérance, sérieux
+	
+Riyad : Sofiane : 1.5 / 2 / 1.5 
+	Micael  : 2 / 2 / 2
+	Riyad   : 1 / 2 / 2  
+
+Sofiane : Micael : 1.5/ 2 / 2
+	  Riyad  : 1.5 / 2 / 2
+	  Sofiane: 1.5 / 2 / 1.5
+
+Micael : Sofiane : 1.5 / 2 / 1.5
+	 Riyad   : 1.5 / 2 / 2
+	 Micael  : 1/5 / 2 / 1.5	
+
+Question de groupe :
+
+Qu'elles ont été les difficultés principales ?
+Micael  : Pas assez de pratique
+Sofiane : Pas assez de pratique, aurais voulu un corrigé des exercices.
+Riyad   :
+Quel a été le ressenti global de la semaine ?
+Sofiane : /
+Micael  : Bcp de difficultés tout au long de la semaine 
+Riyad   :
+ 
+À combien de pourcentage estimez vous avoir progresser en Algo ?
+Sofiane : 35 % / 40 % environ
+Micael  : 50 % 
+Riyad   : 65 % 
+
+
+Avez vous des remarques ou des questions à dire sur la semaine ou sur l'Algo ?
+
+
+
+studio@angamara.fr
+
